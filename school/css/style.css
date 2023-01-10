@@ -1,0 +1,85 @@
+.container-fluid{
+    font-family: corbel !important;
+}
+
+.navbar-brand{
+    font-family: lato !important; 
+}
+
+.navbar-nav a:hover{
+    text-decoration: underline; 
+}
+
+.hero-section-img{
+        height: 650px;
+        background: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url(https://healthzap.co/wp-content/uploads/2016/04/classroom-kids.jpg);
+        background-size: 100% 100%;
+}
+
+.education-tomm-img{
+        height: 530px;
+        background: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url(https://northfieldpromise.org/wp-content/uploads/reading-kids.jpg);
+        background-size: 100% 100%;
+}
+
+.about-img{
+        height: 420px;
+        background: url(https://www.iamexpat.nl/sites/default/files/styles/ogimage_thumb/public/international-schools-in-the-netherlands.jpg);
+        background-size: 120% 100%;
+}
+
+.owl-list ul{
+	display: inline;
+}
+
+.owl-list ul li{
+	display: inline;
+}
+
+.card-owl-img-1{
+        height: 280px;
+        background: url(https://shakerlibrary.org/wp-content/uploads/kids-Reading-Books-group-1.jpg);
+        background-size: 300% 100%;
+}
+
+.card-owl-img-2{
+        height: 280px;
+        background: url(https://cdn.dnaindia.com/sites/default/files/styles/full/public/2020/09/08/923767-school-college-opening-news.jpg);
+        background-size: 300% 150%;
+}
+
+.about-nurture ul{
+	display: inline;
+}
+
+.about-nurture ul li{
+	display: inline;
+	font-size: 40px;
+}
+
+.about-nurture i:hover{
+	color:  green;
+}
+
+.gallery img{
+	width: 80px;
+	height: 80px;
+}
+
+#top{
+    position: fixed !important;
+    bottom: 16px;
+    right: 20px;
+}
+
+#top i{
+    font-size: 24px;
+}
+
+.item .card:hover h5{
+    color: orange;
+}
+
+.item .card:hover p{
+    color: navy;
+}
